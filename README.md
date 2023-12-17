@@ -7,7 +7,7 @@ print the frequency of that single item. Furthermore, the items could be printed
 
 
 What did you do particularly well?
-I think I did as well as I could and I don't think I could have done any better without learning more techniques in C++.
+I think I did very well with retrieving the amount of times an item was bought since I always got the response the guideline was asking for.
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 I could enhance my code by using Python as the item frequency counter as I would be able to control all the features as well as add more features and newer packages.
